@@ -5,7 +5,7 @@
 [![Offline: 100%](https://img.shields.io/badge/offline-100%25-success.svg)](docs/OFFLINE.md)
 [![Download: Release](https://img.shields.io/badge/download-v1.0.0--win64-brightgreen.svg)](https://github.com/programmifree/SubScrivo/releases/latest)
 
-> **Download immediato:** https://github.com/Programmifree/SubScrivo/releases/download/untagged-2fb5544663e57121f5f1/SubScrivo-1.0.0-win64.zip
+> **Download:** https://github.com/Programmifree/SubScrivo/releases/download/untagged-2fb5544663e57121f5f1/SubScrivo-1.0.0-win64.zip
 
 Software portabile per Windows (64-bit) per la conversione automatica **da parlato a testo** (Speech-to-Text) con esportazione immediata in testo e sottotitoli **SRT sincronizzati**, ottimizzato per la distribuzione open source su GitHub e [Programmifree](https://www.programmifree.com).
 
