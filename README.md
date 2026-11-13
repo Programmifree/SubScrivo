@@ -75,21 +75,6 @@ SubScrivo/
 ```
 
 ---
-
-## 📚 Documentazione
-
-| Documento | Contenuto |
-|-----------|-----------|
-| [`docs/BUILD.md`](docs/BUILD.md) | Preparare il pacchetto (Python, FFmpeg, runtime, modelli) |
-| [`docs/DEPLOY.md`](docs/DEPLOY.md) | Pubblicare su GitHub con Release e ZIP |
-| [`docs/UPDATE.md`](docs/UPDATE.md) | Aggiornare codice, dipendenze e modelli |
-| [`docs/OFFLINE.md`](docs/OFFLINE.md) | Come funziona la modalità offline e la portabilità |
-| [`docs/TROUBLESHOOTING.md`](docs/TROUBLESHOOTING.md) | Errori comuni e soluzioni |
-| [`docs/VERIFICATION.md`](docs/VERIFICATION.md) | Test eseguiti e risultati |
-| [`docs/LICENSES.md`](docs/LICENSES.md) | Licenze di software e modelli inclusi |
-
----
-
 ## 📜 Licenza e Condizioni d'Uso
 
 Questo software è distribuito sotto licenza **GNU Affero General Public License v3 (AGPLv3)**.  
