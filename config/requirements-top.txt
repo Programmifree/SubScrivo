@@ -1,0 +1,27 @@
+# =============================================================================
+# SubScrivo - dipendenze Python di primo livello (solo CPU, offline)
+# Python 3.11.x (python-build-standalone per Windows 64-bit)
+#
+# Il pacchetto usa solo:
+#   * transcribe.cpp + ggml  -> trascrizione (Parakeet Ultra GGUF)
+#   * onnxruntime            -> embedding WeSpeaker e Silero VAD
+#   * numpy / soundfile      -> audio
+#   * tkinterdnd2            -> drag & drop nella finestra Tkinter
+# Non servono PyTorch, torchaudio, pyannote.audio, faster-whisper o sklearn.
+# =============================================================================
+
+# Runtime nativo di trascrizione (wheel con binding Python + DLL in native/)
+transcribe-cpp==0.4.0
+
+# Inferenza ONNX: embedding dei parlanti (WeSpeaker) e VAD (Silero)
+onnxruntime==1.31.0
+
+# Audio I/O
+soundfile==0.12.1
+numpy==1.26.4
+
+# Drag and drop dei file nella finestra (tkdnd per Tk)
+tkinterdnd2==0.6.4
+
+# Solo per lo sviluppo: download dei modelli (scripts/fetch_models.py)
+# huggingface-hub==0.27.1

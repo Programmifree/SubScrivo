@@ -1,0 +1,40 @@
+# ---------------------------------------------------------------------------
+# SubScrivo - repository GitHub
+# I binari pesanti (interprete Python, FFmpeg, runtime nativo, modelli) NON
+# vanno nel repository: si distribuiscono con le Release.
+# ---------------------------------------------------------------------------
+
+# Runtime e dati locali
+/work/
+/build/
+/dist/
+/work/config/settings.json
+/work/logs/
+__pycache__/
+*.py[cod]
+*.log
+
+# Interprete Python embedded
+/python/
+
+# FFmpeg
+/ffmpeg/bin/
+
+# Runtime nativo (DLL e modelli VAD)
+/native/*.dll
+/native/silero-vad/*.onnx
+!/native/silero-vad/.gitkeep
+
+# Modelli AI
+/models/gguf/*
+!/models/gguf/.gitkeep
+/models/embeddings/*
+!/models/embeddings/.gitkeep
+
+# Collegamento con percorsi assoluti (viene ricreato al primo avvio)
+/Avvia SubScrivo.lnk
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
