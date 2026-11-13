@@ -10,6 +10,8 @@
 
 > **Download immediato:** [Scarica SubScrivo 1.0.0 per Windows a 64-bit](https://github.com/programmifree/SubScrivo/releases/latest) (archivio ZIP completo, pronto all'uso).
 
+> https://github.com/Programmifree/SubScrivo/releases/download/untagged-2fb5544663e57121f5f1/SubScrivo-1.0.0-win64.zip
+
 Software portabile per Windows (64-bit) per la conversione automatica **da parlato a testo** (Speech-to-Text) con esportazione immediata in testo e sottotitoli **SRT sincronizzati**, ottimizzato per la distribuzione open source su GitHub e [Programmifree](https://www.programmifree.com).
 
 ---
