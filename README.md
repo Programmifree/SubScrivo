@@ -3,11 +3,12 @@
 [![License: AGPL v3](https://img.shields.io/badge/license-AGPLv3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Platform: Windows 10/11 x64](https://img.shields.io/badge/platform-Windows%2010%2F11%20x64-lightgrey.svg)](#-avvio-rapido)
 [![Offline: 100%](https://img.shields.io/badge/offline-100%25-success.svg)](docs/OFFLINE.md)
-[![Download: Release](https://img.shields.io/badge/download-v1.0.0--win64-brightgreen.svg)](https://github.com/programmifree/SubScrivo/releases/latest)
+[![Download: Release](https://img.shields.io/badge/download-v1.0.1--win64-brightgreen.svg)](https://github.com/Programmifree/SubScrivo/releases/latest/download/SubScrivo-1.0.1-win64.zip)
 
-> **Download:** https://github.com/Programmifree/SubScrivo/releases/download/untagged-2fb5544663e57121f5f1/SubScrivo-1.0.0-win64.zip
+> **Download immediato:** [Scarica SubScrivo 1.0.1 per Windows a 64-bit](https://github.com/Programmifree/SubScrivo/releases/latest/download/SubScrivo-1.0.1-win64.zip) (archivio ZIP completo, pronto all'uso).
 
 Software portabile per Windows (64-bit) per la conversione automatica **da parlato a testo** (Speech-to-Text) con esportazione immediata in testo e sottotitoli **SRT sincronizzati**, ottimizzato per la distribuzione open source su GitHub e [Programmifree](https://www.programmifree.com).
+
 
 ---
 
